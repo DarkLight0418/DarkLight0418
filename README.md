@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DarkLight0418(Hanjae Kim)</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">안녕하세요!!</h3>
 
 - 📫 How to reach me **samseong0418@gmail.com**
 
