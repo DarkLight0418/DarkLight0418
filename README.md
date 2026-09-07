@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **samseong0418@naver.com**
 
-<h3 align="left">소개</h3>
+<h3 align="left">✨ 소개 (introduction) </h3>
 <p align="left">
   Backend / Full-stack을 공부하고 있는 개발자입니다.
   현재 대학생으로 프로젝트와 CS 기초를 함께 공부하고 있습니다.
