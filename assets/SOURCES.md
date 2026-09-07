@@ -7,7 +7,9 @@ The profile card SVGs in `assets/cards/` embed vector logo data fetched from the
 - Java — https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg
 - Python — https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg
 - React — https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg
-- Spring — https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg
+- React Native — https://github.com/devicons/devicon/blob/master/icons/reactnative/reactnative-original.svg
+- Spring Boot — https://github.com/simple-icons/simple-icons/blob/develop/icons/springboot.svg
+- FastAPI — https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg
 - MariaDB — https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg
 - MySQL — https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg
 - Git — https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg
