@@ -34,74 +34,65 @@
 <h3 align="left">🛠 주로 공부하는 언어 및 툴들 (Languages and Tools)</h3>
 
 <h4>💻 Languages</h4>
-<table border="0">
-  <tr>
-    <td align="center" width="110">
-      <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-        <br />
-        <strong>Java</strong>
-      </a>
-    </td>
-    <td align="center" width="110">
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-        <br />
-        <strong>Python</strong>
-      </a>
-    </td>
-  </tr>
-</table>
+
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  </a>
+  <br />
+  <sub>
+    <b>&nbsp;Java</b>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <b>Python</b>
+  </sub>
+</p>
 
 <h4>⚙️ Frameworks & Libraries</h4>
-<table>
-  <tr>
-    <td align="center" width="110">
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-        <br />
-        <strong>React</strong>
-      </a>
-    </td>
-    <td align="center" width="110">
-      <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40" />
-        <br />
-        <strong>Spring</strong>
-      </a>
-    </td>
-  </tr>
-</table>
+
+<p align="left">
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40" />
+  </a>
+  <br />
+  <sub>
+    <b>React</b>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <b>Spring</b>
+  </sub>
+</p>
 
 <h4>🗄️ Databases</h4>
-<table>
-  <tr>
-    <td align="center" width="110">
-      <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40" />
-        <br />
-        <strong>MariaDB</strong>
-      </a>
-    </td>
-    <td align="center" width="110">
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-        <br />
-        <strong>MySQL</strong>
-      </a>
-    </td>
-  </tr>
-</table>
+
+<p align="left">
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  </a>
+  <br />
+  <sub>
+    <b>MariaDB</b>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <b>MySQL</b>
+  </sub>
+</p>
 
 <h4>🔧 Tools</h4>
-<table>
-  <tr>
-    <td align="center" width="110">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-        <br />
-        <strong>Git</strong>
-      </a>
-    </td>
-  </tr>
-</table>
+
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+  </a>
+  <br />
+  <sub><b>&nbsp;&nbsp;Git</b></sub>
+</p>
