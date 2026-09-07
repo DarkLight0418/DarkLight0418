@@ -3,6 +3,13 @@
 
 - 📫 How to reach me **samseong0418@naver.com**
 
+<h3 align="left">소개</h3>
+<p align="left">
+  Backend / Full-stack을 공부하고 있는 개발자입니다.
+  현재 대학생으로 프로젝트와 CS 기초를 함께 공부하고 있습니다.
+</p>
+
+---
 <h3 align="left">🤝 같이 소통해요! (Connect with Me)</h3>
 
 <p align="left">
@@ -22,10 +29,12 @@
   </a>
 </p>
 
+---
+
 <h3 align="left">🛠 주로 공부하는 언어 및 툴들 (Languages and Tools)</h3>
 
 <h4>💻 Languages</h4>
-<table>
+<table border="0">
   <tr>
     <td align="center" width="110">
       <a href="https://www.java.com" target="_blank" rel="noreferrer">
