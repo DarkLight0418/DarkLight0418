@@ -31,7 +31,9 @@
 <h4>⚙️ Frameworks & Libraries</h4>
 <p align="left">
   <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="./assets/cards/react.svg" alt="React" width="84" /></a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="./assets/cards/spring.svg" alt="Spring" width="84" /></a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="./assets/cards/react-native.svg" alt="React Native" width="84" /></a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="./assets/cards/spring.svg" alt="Spring Boot" width="84" /></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="./assets/cards/fastapi.svg" alt="FastAPI" width="84" /></a>
 </p>
 
 <h4>🗄️ Databases</h4>
