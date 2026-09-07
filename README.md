@@ -13,25 +13,9 @@
 <h3 align="left">🤝 같이 소통해요! (Connect with Me)</h3>
 
 <p align="left">
-  <a href="https://linkedin.com/in/hanjaekim" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://fb.com/gimhanjae.111580" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/hanjae_kim" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" />
-  </a>
-  <br />
-  <sub>
-    <b>LinkedIn</b>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <b>Facebook</b>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <b>Instagram</b>
-  </sub>
+  <a href="https://linkedin.com/in/hanjaekim" target="_blank" rel="noreferrer"><img src="./assets/cards/linkedin.svg" alt="LinkedIn" width="84" /></a>
+  <a href="https://fb.com/gimhanjae.111580" target="_blank" rel="noreferrer"><img src="./assets/cards/facebook.svg" alt="Facebook" width="84" /></a>
+  <a href="https://instagram.com/hanjae_kim" target="_blank" rel="noreferrer"><img src="./assets/cards/instagram.svg" alt="Instagram" width="84" /></a>
 </p>
 
 ---
@@ -39,65 +23,24 @@
 <h3 align="left">🛠 주로 공부하는 언어 및 툴들 (Languages and Tools)</h3>
 
 <h4>💻 Languages</h4>
-
 <p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <br />
-  <sub>
-    <b>&nbsp;Java</b>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <b>Python</b>
-  </sub>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="./assets/cards/java.svg" alt="Java" width="84" /></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="./assets/cards/python.svg" alt="Python" width="84" /></a>
 </p>
 
 <h4>⚙️ Frameworks & Libraries</h4>
-
 <p align="left">
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40" />
-  </a>
-  <br />
-  <sub>
-    <b>React</b>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <b>Spring</b>
-  </sub>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="./assets/cards/react.svg" alt="React" width="84" /></a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="./assets/cards/spring.svg" alt="Spring" width="84" /></a>
 </p>
 
 <h4>🗄️ Databases</h4>
-
 <p align="left">
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <br />
-  <sub>
-    <b>MariaDB</b>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <b>MySQL</b>
-  </sub>
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="./assets/cards/mariadb.svg" alt="MariaDB" width="84" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="./assets/cards/mysql.svg" alt="MySQL" width="84" /></a>
 </p>
 
 <h4>🔧 Tools</h4>
-
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a>
-  <br />
-  <sub><b>&nbsp;&nbsp;Git</b></sub>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="./assets/cards/git.svg" alt="Git" width="84" /></a>
 </p>

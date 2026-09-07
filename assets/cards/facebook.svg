@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 84 72" width="84" height="72">
+  <!-- Logo source: https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Social/facebook.svg -->
+  <style>text{font:600 11px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#57606a}@media(prefers-color-scheme:dark){text{fill:#c9d1d9}}</style>
+  <svg x="20" y="2" width="44" height="44" viewBox="0 0 512 512">
+    <path fill="#1976D2" d="M448 0H64C28.704 0 0 28.704 0 64v384c0 35.296 28.704 64 64 64h384c35.296 0 64-28.704 64-64V64c0-35.296-28.704-64-64-64z"/>
+    <path fill="#FAFAFA" d="M432 256h-80v-64c0-17.664 14.336-16 32-16h32V96h-64c-53.024 0-96 42.976-96 96v64h-64v80h64v176h96V336h48l32-80z"/>
+  </svg>
+  <text x="42" y="64" text-anchor="middle">Facebook</text>
+</svg>

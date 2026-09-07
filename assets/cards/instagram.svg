@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 84 72" width="84" height="72">
+  <!-- Logo source: https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Social/instagram.svg -->
+  <style>text{font:600 11px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#57606a}@media(prefers-color-scheme:dark){text{fill:#c9d1d9}}</style>
+  <svg x="20" y="2" width="44" height="44" viewBox="0 0 512 512">
+    <linearGradient id="ig1" gradientUnits="userSpaceOnUse" x1="-46.0041" y1="634.1208" x2="-32.9334" y2="647.1917" gradientTransform="matrix(32 0 0 -32 1519 20757)"><stop offset="0" stop-color="#FFC107"/><stop offset=".507" stop-color="#F44336"/><stop offset=".99" stop-color="#9C27B0"/></linearGradient>
+    <linearGradient id="ig2" gradientUnits="userSpaceOnUse" x1="-42.2971" y1="637.8279" x2="-36.6404" y2="643.4846" gradientTransform="matrix(32 0 0 -32 1519 20757)"><stop offset="0" stop-color="#FFC107"/><stop offset=".507" stop-color="#F44336"/><stop offset=".99" stop-color="#9C27B0"/></linearGradient>
+    <linearGradient id="ig3" gradientUnits="userSpaceOnUse" x1="-35.5456" y1="644.5793" x2="-34.7919" y2="645.3331" gradientTransform="matrix(32 0 0 -32 1519 20757)"><stop offset="0" stop-color="#FFC107"/><stop offset=".507" stop-color="#F44336"/><stop offset=".99" stop-color="#9C27B0"/></linearGradient>
+    <path fill="url(#ig1)" d="M352 0H160C71.648 0 0 71.648 0 160v192c0 88.352 71.648 160 160 160h192c88.352 0 160-71.648 160-160V160C512 71.648 440.352 0 352 0zm112 352c0 61.76-50.24 112-112 112H160c-61.76 0-112-50.24-112-112V160C48 98.24 98.24 48 160 48h192c61.76 0 112 50.24 112 112v192z"/>
+    <path fill="url(#ig2)" d="M256 128c-70.688 0-128 57.312-128 128s57.312 128 128 128 128-57.312 128-128-57.312-128-128-128zm0 208c-44.096 0-80-35.904-80-80 0-44.128 35.904-80 80-80s80 35.872 80 80c0 44.096-35.904 80-80 80z"/>
+    <circle fill="url(#ig3)" cx="393.6" cy="118.4" r="17.056"/>
+  </svg>
+  <text x="42" y="64" text-anchor="middle">Instagram</text>
+</svg>
